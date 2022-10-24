@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O AperturePay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM utilizando somente o JavaScript. Feito e inspirado a partir dos ensinamentos do evento Explorer Lab 01 da Rocketseat.
+O AperturePay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM utilizando somente o JavaScript. Feito e inspirado a partir dos ensinamentos do evento Explorer Lab 01 da Rocketseat. Obrigado aos educadores Mayk Brito e Rodrigo Gonçalves e toda equipe da Rocketseat.
 
 ## 🔖 Layout
 

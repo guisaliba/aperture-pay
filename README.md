@@ -1,4 +1,4 @@
-<h1 align="center"> Aperture Pay </h1>
+<h1 align="center"> AperturePay </h1>
 
 <p align="center">
 Esse website foi construido com os ensinamentos do evento gratuito Explorer Lab 01 da Rocketseat.

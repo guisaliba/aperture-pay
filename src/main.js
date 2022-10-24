@@ -21,7 +21,7 @@ setCardType("default");
 
 const securityCode = document.querySelector("#security-code");
 const securityCodePattern = {
-  mask: "0000",
+  mask: "000",
 };
 // IMask(element, pattern)
 const securityCodeMasked = IMask(securityCode, securityCodePattern);

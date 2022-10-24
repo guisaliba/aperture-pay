@@ -7,7 +7,7 @@
 :root {
   font-size: 62.5%;
 
-  font-family: Inter, sans-serif;
+  font-family: Poppins, sans-serif;
   color: rgba(255, 255, 255, 0.87);
 
   font-synthesis: none;
@@ -49,4 +49,18 @@ body {
 #app header {
   display: flex;
   align-items: center;
+}
+
+.app-logo-name {
+  margin-left: 1rem;
+  font-size: 2.3rem;
+  font-weight: 300;
+  color: #e1e1e6;
+}
+
+.app-logo-name2 {
+  margin-left: 0.4rem;
+  font-size: 2.3rem;
+  font-weight: 300;
+  color: #4cabe6;
 }

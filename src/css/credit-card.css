@@ -24,7 +24,7 @@
 
 .cc-number {
   font-size: 2.4rem;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 2.9rem;
   letter-spacing: 0.04em;
 
@@ -46,7 +46,7 @@
 
 .cc .value {
   font-size: 1.4rem;
-  font-weight: bold;
+  font-weight: normal;
   color: #ffffff;
   text-shadow: 0 0.25rem 0.25rem rgb(22 22 22 / 16%);
   text-transform: uppercase;

@@ -11,8 +11,8 @@ form .input-wrapper {
 }
 
 form label {
-  font-weight: 600;
-  font-size: 1.2rem;
+  font-weight: 400;
+  font-size: 1.5rem;
   line-height: 1.5rem;
   letter-spacing: 0.01px;
   text-transform: uppercase;
@@ -41,6 +41,7 @@ form .flex .input-wrapper {
 }
 
 form button {
+  font-family: Poppins;
   margin-top: 1.6rem;
 
   display: flex;
@@ -48,17 +49,17 @@ form button {
   align-items: center;
   padding: 1.6rem 0;
 
-  background: #42d3ff;
+  background: #4cabe6;
   border-radius: 0.6rem;
 
   cursor: pointer;
 
   border: none;
 
-  font-weight: 700;
-  font-size: 1.4rem;
+  font-weight: 400;
+  font-size: 1.6rem;
   line-height: 1.7rem;
-  color: #121212;
+  color: #e1e1e6;
 
   transition: filter 0.3s;
 }

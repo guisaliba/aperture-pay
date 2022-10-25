@@ -18,7 +18,7 @@ Esse website foi construido com os ensinamentos do evento gratuito Explorer Lab 
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/aperturepay.png" width="100%">
+  <img alt="rocketpay" src=".github/aperturepayupdated.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
